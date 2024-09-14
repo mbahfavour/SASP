@@ -1,3 +1,9 @@
 [submodule "api-model"]
 	path = api-model
 	url = https://github.com/mbahfavour/api-model.git
+[submodule "grades-controller"]
+	path = grades-controller
+	url = https://github.com/mbahfavour/grades-controller.git
+[submodule "student-profile-controller"]
+	path = student-profile-controller
+	url = https://github.com/mbahfavour/student-profile-controller.git
